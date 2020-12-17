@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: '<font color="Crimson">Christine Cai</font>'
-description: '<font color="Crimson">Ph.D. Candidate in Economics at Princeton University</font>'
+title: '<font color="DarkRed">Christine Cai</font>'
+description: '<font color="DarkRed">Ph.D. Candidate in Economics at Princeton University</font>'
 
 # Images
 avatar: 'avatar.jpg'
