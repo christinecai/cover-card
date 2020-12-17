@@ -80,7 +80,7 @@ social-links:
     url-pattern: 'christine.cai@princeton.edu'
     icon-class: far fa-2x fa-envelope-open
     
-    
+ <html>
  <body>
 		<nav>
     		<ul>
@@ -92,3 +92,4 @@ social-links:
     		</ul>
 		</nav>
 </body>
+</html>
